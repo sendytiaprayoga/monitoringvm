@@ -1,2 +1,2 @@
 ui untuk rapberry pi
-ui di buat dengan php
+ui di buat dengan php & python
